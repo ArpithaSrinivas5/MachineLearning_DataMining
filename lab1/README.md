@@ -24,3 +24,5 @@ Let's implement all ##TODO functions in lab1.py.
 pipenv shell
 python lab1.py | tee lab1_output.txt
 ```
+###Output
+<img width="1676" alt="Lab1Output" src="https://user-images.githubusercontent.com/89316938/154905727-d5be3851-2d6c-4492-bffa-195ddd3b62d6.png">
