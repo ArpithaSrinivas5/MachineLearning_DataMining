@@ -20,7 +20,7 @@ class Solution:
     def count(self) -> int:
         # TODO
         # The number of observations/entries in the dataset.
-        self.chipo.shape
+        self.chipo.index
         return -1
     
     def info(self) -> None:
@@ -31,12 +31,13 @@ class Solution:
     
     def num_column(self) -> int:
         # TODO return the number of columns in the dataset
-        self.chipo.shape
+        list(self.chipo.columns)
         return -1
     
     def print_columns(self) -> None:
         # TODO Print the name of all the columns.
-        list(self.chipo.columns)
+        allColumns = list(self.chipo.columns)
+        allColumns
         pass
     
     def most_ordered_item(self):
