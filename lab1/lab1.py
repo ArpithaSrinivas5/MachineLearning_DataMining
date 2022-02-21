@@ -107,22 +107,34 @@ class Solution:
 
 
         # 5. show the plot. Hint: plt.show(block=True).
-         plt.show(block=True)
-         pass
+        plt.show(block=True)
+        pass
         
     def scatter_plot_num_items_per_order_price(self) -> None:
         # TODO
         # 1. create a list of prices by removing dollar sign and trailing space.
+        lst = list(Prices).replace(',', '')
+        
         # 2. groupby the orders and sum it.
+
+        self.chipogroupby('orders').agg({
+            'orders': 'sum'
+        })
+
         # 3. create a scatter plot:
         #       x: orders' item price
         #       y: orders' quantity
         #       s: 50
         #       c: blue
+
+
         # 4. set the title and labels.
         #       title: Numer of items per order price
         #       x: Order Price
         #       y: Num Items
+
+        self.chipo.plot(x='Price', y='Items')
+
         pass
     
         
