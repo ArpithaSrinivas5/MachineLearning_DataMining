@@ -1,4 +1,4 @@
- # Assignment 2
+ ## Assignment 2
 
 In this assignment, you will be building a SVM classifier to label [famous people's images](https://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition.html#sphx-glr-auto-examples-applications-plot-face-recognition-py).
 
