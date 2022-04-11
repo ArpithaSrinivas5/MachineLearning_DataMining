@@ -1,4 +1,4 @@
-# Lab 3 - SVN Classification
+# Lab 3 - SVM Classification
 
 
 You will be implementing SVM classifier (Scikit-learn) using the same dataset from the midterm exam (Links to an external site.). Measure accuracy for at least three different C (hyperparameter) values and plot diagram for each C value.,
