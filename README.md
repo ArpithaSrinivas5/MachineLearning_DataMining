@@ -1,12 +1,12 @@
 # cmpe255-spring22
 
 
-
-<img width="1676" alt="Lab1Output" src="https://user-images.githubusercontent.com/89316938/154905727-d5be3851-2d6c-4492-bffa-195ddd3b62d6.png">
-
-
+# Decision Tree Classifier
 
 <img width="627" alt="lab5" src="https://user-images.githubusercontent.com/89316938/167339868-7e5c9315-fc32-4d03-ba7b-eb605c764561.png">
+
+
+<img width="1676" alt="Lab1Output" src="https://user-images.githubusercontent.com/89316938/154905727-d5be3851-2d6c-4492-bffa-195ddd3b62d6.png">
 
 
 # Classification
